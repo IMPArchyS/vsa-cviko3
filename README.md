@@ -1,1 +1,1 @@
-# vsa-cviko3
+# Jednosmerné asociácie (a kolekcie)
